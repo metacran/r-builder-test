@@ -13,7 +13,7 @@ script:
   - ./pkg-build.sh run_tests
 
 on_failure:
-  - ./travis-tool.sh dump_logs
+  - ./pkg-build.sh dump_logs
 
 notifications:
   email:
