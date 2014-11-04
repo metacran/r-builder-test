@@ -6,5 +6,5 @@ Description: A package to test r-builder. We test this package
     using various CI services, and https://github.com/gaborcsardi/r-builder.
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/gaborcsardi/r-builder-test
-BugReports: https://github.com/gaborcsardi/r-builder-test/issues
+URL: https://github.com/metacran/r-builder-test
+BugReports: https://github.com/metacran/r-builder-test/issues
