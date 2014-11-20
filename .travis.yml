@@ -12,7 +12,7 @@ install:
 script:
   - ./pkg-build.sh run_tests
 
-on_failure:
+after_failure:
   - ./pkg-build.sh dump_logs
 
 notifications:
